@@ -48,16 +48,16 @@ The server keeps a vanilla+ Minecraft style by default, then players can enable 
 
 ```text
 Server Layer
-└─ Paper 26.2
-   ├─ Dynamic Lights datapack
-   └─ Faithful 32x resource pack
+- Paper 26.2
+  - Dynamic Lights datapack
+  - Faithful 32x resource pack
 
 Client Layer
-└─ Fabric Loader 26.2
-   ├─ Iris
-   ├─ Sodium
-   └─ Complementary Unbound
-   ```
+- Fabric Loader 26.2
+  - Iris
+  - Sodium
+  - Complementary Unbound
+```
 
 ## Setup Levels
 
