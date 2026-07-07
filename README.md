@@ -22,6 +22,43 @@ Lower-impact shader option:
 
 - Complementary Reimagined
 
+## Visual Comparison
+
+The server keeps a vanilla+ Minecraft style by default, then players can enable Iris, Sodium, and Complementary Unbound for RTX-style lighting, shadows, atmosphere, and glow.
+
+### Daytime Overview
+
+| Before | After |
+| --- | --- |
+| ![Before daytime overview](assets/screenshots/before-daytime.png) | ![After daytime overview](assets/screenshots/after-daytime.png) |
+
+### City Overview at Night
+
+| Before | After |
+| --- | --- |
+| ![Before city overview at night](assets/screenshots/before-city-angle-2.png) | ![After city overview at night](assets/screenshots/after-city-angle-2.png) |
+
+### Street-Level Lighting
+
+| Before | After |
+| --- | --- |
+| ![Before street-level lighting](assets/screenshots/before-city-angle-1.png) | ![After street-level lighting](assets/screenshots/after-city-angle-1.png) |
+
+## Visual Stack Overview
+
+```text
+Server Layer
+└─ Paper 26.2
+   ├─ Dynamic Lights datapack
+   └─ Faithful 32x resource pack
+
+Client Layer
+└─ Fabric Loader 26.2
+   ├─ Iris
+   ├─ Sodium
+   └─ Complementary Unbound
+   ```
+
 ## Setup Levels
 
 ### Basic
