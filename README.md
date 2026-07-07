@@ -1,5 +1,13 @@
 # Minecraft RTX-Style Server Guide
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Minecraft%20Java-26.2-brightgreen?style=for-the-badge" alt="Minecraft Java 26.2" />
+  <img src="https://img.shields.io/badge/Server-Paper-blue?style=for-the-badge" alt="Paper server" />
+  <img src="https://img.shields.io/badge/Client-Fabric%20%7C%20Iris%20%7C%20Sodium-purple?style=for-the-badge" alt="Fabric Iris Sodium client" />
+  <img src="https://img.shields.io/badge/Shader-Complementary%20Unbound-orange?style=for-the-badge" alt="Complementary Unbound shader" />
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="MIT License" />
+</p>
+
 This repository documents a Minecraft Java 26.2 visual stack that creates an RTX-style, realistic lighting experience while keeping the game close to a vanilla+ Minecraft look.
 
 It is documentation only. Do not upload shader packs, resource packs, datapacks, or other third-party `.zip` files to this repo. Players and server admins should download those files from the official pages linked below.
