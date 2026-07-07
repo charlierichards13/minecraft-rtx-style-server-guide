@@ -60,8 +60,10 @@ Shaders in Minecraft Java are client-side. A server can push a resource pack, an
 - [Complementary Unbound on Modrinth](https://modrinth.com/shader/complementary-unbound)
 - [Complementary Reimagined on Modrinth](https://modrinth.com/shader/complementary-reimagined)
 - [Faithful downloads](https://faithfulpack.net/downloads)
-- [DynamicLights datapack on Modrinth](https://modrinth.com/datapack/dynamiclights)
-- [Java download](https://www.java.com/download/)
+- [Tschipcraft Dynamic Lights on Modrinth](https://modrinth.com/datapack/dynamic-lights)
+- [Tschipcraft's Dynamic Lights on CurseForge](https://www.curseforge.com/minecraft/data-packs/tschipcrafts-dynamic-lights)
+- [Adoptium Temurin 21 LTS](https://adoptium.net/temurin/releases/?version=21&os=windows&arch=x64)
+- [Java.com download](https://www.java.com/download/)
 - [mc-packs resource pack hosting](https://mc-packs.net/)
 
 ## Repository Policy

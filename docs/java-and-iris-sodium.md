@@ -7,7 +7,8 @@ Iris is the shader loader. Sodium is the performance mod that helps Minecraft ru
 - [Iris installer](https://www.irisshaders.dev/download/)
 - [Fabric installer](https://fabricmc.net/use/installer/)
 - [Sodium on Modrinth](https://modrinth.com/mod/sodium)
-- [Java download](https://www.java.com/download/)
+- [Adoptium Temurin 21 LTS for Windows x64](https://adoptium.net/temurin/releases/?version=21&os=windows&arch=x64)
+- [Java.com download](https://www.java.com/download/)
 
 Most players should start with the Iris installer because it is simpler than manually installing Fabric mods.
 
@@ -15,7 +16,9 @@ Most players should start with the Iris installer because it is simpler than man
 
 Minecraft includes its own Java runtime for launching the game, but that does not always help Windows open separate `.jar` installers.
 
-If the Iris installer does not open when you double-click it, install Java for Windows, then try the Iris installer again.
+If the Iris installer does not open when you double-click it, install Adoptium Temurin 21 LTS for Windows x64, then try the Iris installer again.
+
+Java.com can also work as an alternate Java install path if needed, but Temurin 21 LTS is the clearer recommendation for this setup.
 
 You may also need to:
 

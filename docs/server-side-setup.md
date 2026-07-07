@@ -18,9 +18,10 @@ Use the build that matches Minecraft Java 26.2.
 
 ## Dynamic Lights Datapack
 
-Download Dynamic Lights from the official Modrinth page:
+Download Tschipcraft Dynamic Lights from the official Modrinth page:
 
-- [DynamicLights datapack on Modrinth](https://modrinth.com/datapack/dynamiclights)
+- [Tschipcraft Dynamic Lights on Modrinth](https://modrinth.com/datapack/dynamic-lights)
+- [Tschipcraft's Dynamic Lights on CurseForge](https://www.curseforge.com/minecraft/data-packs/tschipcrafts-dynamic-lights)
 
 Datapacks go inside the active world folder:
 
@@ -70,7 +71,7 @@ Example `server.properties` fields:
 resource-pack=https://download.mc-packs.net/pack/example-pack-url.zip
 resource-pack-sha1=example_sha1_hash
 require-resource-pack=false
-resource-pack-prompt=This server uses Faithful 32x for the intended vanilla+ look.
+resource-pack-prompt={"text":"This server uses Faithful 32x for the intended vanilla+ look.","color":"gold"}
 ```
 
 Use the real URL and SHA-1 from mc-packs. The values above are placeholders.

@@ -2,9 +2,13 @@
 
 ## Iris Installer Does Nothing When Clicked
 
-Install Java for Windows, then try again:
+Install Adoptium Temurin 21 LTS for Windows x64, then try again:
 
-- [Java download](https://www.java.com/download/)
+- [Adoptium Temurin 21 LTS for Windows x64](https://adoptium.net/temurin/releases/?version=21&os=windows&arch=x64)
+
+Java.com can still work as an alternate if needed:
+
+- [Java.com download](https://www.java.com/download/)
 
 Also try:
 

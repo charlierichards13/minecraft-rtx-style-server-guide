@@ -44,9 +44,13 @@ Download Iris from the official Iris page:
 
 Use the Iris installer for the Minecraft Launcher. It installs Iris and Sodium together.
 
-On Windows, the Iris installer may need Java installed before it opens. If double-clicking the installer does nothing, install Java and try again:
+On Windows, the Iris installer may need Java installed before it opens. If double-clicking the installer does nothing, install Adoptium Temurin 21 LTS for Windows x64 and try again:
 
-- [Java download](https://www.java.com/download/)
+- [Adoptium Temurin 21 LTS for Windows x64](https://adoptium.net/temurin/releases/?version=21&os=windows&arch=x64)
+
+Java.com can still work as an alternate if needed:
+
+- [Java.com download](https://www.java.com/download/)
 
 When the Iris installer says `Completed`, the install is done. You can close the installer window.
 
